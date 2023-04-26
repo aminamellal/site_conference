@@ -1,0 +1,68 @@
+/* Style général */
+
+
+  
+  .col-md-4 {
+    width: calc(33.33% - 20px);
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 0px;
+  }
+  
+  /* Styles pour les listes de thèmes */
+  
+  .list-group {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .list-group-item {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .list-group-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Styles pour les titres des listes de thèmes */
+  
+  .list-group h3 {
+    color: #4a90e2;;
+    margin-bottom: 20px;
+  }
+  
+  /* Styles pour les titres généraux */
+  
+  h2 {
+    color: #4a90e2;;
+    margin-bottom: 40px;
+  }
+  
