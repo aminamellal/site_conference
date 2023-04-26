@@ -75,12 +75,14 @@ tr:nth-child(even) {
 <body>
 
 <?php
-  include 'topheader.php';
+  include 'conn_bd.php';
+  //include 'topheader.php';
   ?>
 
 <?php
-  include 'header.php';
+  include 'topheader.php';
   ?>
+
 
 
 <!-- banner -->
