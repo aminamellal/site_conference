@@ -56,11 +56,11 @@ $(document).ready(function(){
   //include 'topheader.php';
   ?>
 
-  
-
 <?php
   include 'topheader.php';
   ?>
+
+
 
 <!-- banner -->
   <div class="courses_banner">
@@ -81,9 +81,7 @@ $(document).ready(function(){
   <br>
   <div class="col-md-12">
 
-
-
-   <h1 style="text-align:center"> Appel à papiers</h1>
+   <h1 style="text-align:center"> Appel à communication</h1>
     <p style="text-align:justify; text-indent: 50px;word-spacing:4px;font-style:bold">
  <pre style="font-family:bold;font-size:20px;word-wrap:break-word">
  Nous avons le plaisir d'annoncer notre prochaine conférence sur les Communications et Réseaux, qui se tiendra à [lieu] du [date] au [date]. Nous invitons les chercheurs et les professionnels de l'industrie à soumettre leurs travaux pour une présentation lors de cette conférence.

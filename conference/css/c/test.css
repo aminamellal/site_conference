@@ -65,4 +65,33 @@
     color: #4a90e2;;
     margin-bottom: 40px;
   }
+  .col-md-12 {
+    background-color: #fff; /* Couleur de fond */
+    padding: 20px; /* Espace intérieur */
+    border-radius: 10px; /* Coins arrondis */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Ombre */
+  }
+  
+  h1 {
+    color: #007bff; /* Couleur du texte */
+    font-size: 36px; /* Taille de police */
+    text-align: center; /* Centrer le texte */
+  }
+  
+  p {
+    font-size: 18px; /* Taille de police */
+    line-height: 1.5; /* Espacement des lignes */
+    text-align: justify; /* Justifier le texte */
+    text-indent: 50px; /* Retrait de la première ligne */
+  }
+  
+  pre {
+    font-family: 'Helvetica Neue', sans-serif; /* Police de caractère */
+    font-size: 20px; /* Taille de police */
+    word-wrap: break-word; /* Permet de casser les mots longs */
+    background-color: #f2f2f2; /* Couleur de fond */
+    padding: 20px; /* Espace intérieur */
+    border-radius: 5px; /* Coins arrondis */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Ombre */
+  }
   

@@ -9,29 +9,19 @@
 			<ul class="nav navbar-nav nav_1">
 				
 				<li><a href="index.php">Acceuil</a></li>
-				<li><a href="index.php#about_conf">À propos de la conférence</a></li>
-				<li><a href="index.php#insc">Inscription</a></li>
+				<li><a href="callforpapers.php">Appel a communication </a></li>
+				<li><a href="">Inscription</a></li>
 				
-					<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Papiers</a>
-					<ul class="dropdown-menu">
-						<li><a href="callforpapers.php">Demande de papiers</a></li>
-						<li><a href="submission.php">Soumission de papier</a></li>
+							
 						
-						<!-- <li><a href="events.html">Event3</a></li> -->
-					</ul> 
-				</li>		
-						
-				</li>
+				<li><a href="submission.php">Soumission</a></li>
 
-				<li>
-			<a href="date_importantes.php">Les dates importantes</a>
-			</li>
+				
 			<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Les comités</a>
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Dates</a>
 					<ul class="dropdown-menu" role="menu">
-					<li><a href="comite_prgrm.php">Comité de programme</a></li>
-					<li><a href="comite_org.php">Comité d'organisation</a></li>
+					<li><a href="date_importantes.php">Dates Importantes</a></li>
+					<li><a href="dead.php">Deadline</a></li>
 					
 					</ul>
 			</li>
@@ -40,8 +30,8 @@
 				<li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown">Hébergement</a>
 					<ul class="dropdown-menu" role="menu">
-					<li><a href="accommodation.html">Hôtels</a></li>
-					<li><a href="transport.html">Amphithéâtres</a></li>
+					<li><a href="hotel.php">Hôtels</a></li>
+					<li><a href="amphi.php">Amphithéâtres</a></li>
 					
 					</ul>
 

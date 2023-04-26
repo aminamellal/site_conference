@@ -87,7 +87,7 @@ tr:nth-child(even) {
   	<div class="container">
       <br>
   	  <p class="description">
-          Titre de la conférence
+          Dates Importantes
       </p>
       
   	</div>
