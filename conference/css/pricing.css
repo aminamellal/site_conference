@@ -1,0 +1,44 @@
+.card {
+  background-color: #fff;
+  border-color: #007bff;
+}
+
+.card-header {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+}
+
+.card-header.text-bg-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+}
+
+.card-title {
+  color: #007bff;
+}
+
+.card-body {
+  color: #333;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+  color: #fff;
+}
+
+.list-unstyled li {
+  color: #333;
+}
+
+.text-body-secondary {
+  color: #333;
+}

@@ -10,7 +10,7 @@
 				
 				<li><a href="index.php">Acceuil</a></li>
 				<li><a href="callforpapers.php">Appel a communication </a></li>
-				<li><a href="">Inscription</a></li>
+				<li><a href="inscription.php">Inscription</a></li>
 				
 							
 						
